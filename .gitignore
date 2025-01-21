@@ -1,0 +1,19 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data directories
+data/
+
+# Virtual environment
+venv/
+env/
+
+# Results
+results/
+
+# IDE and OS files
+.vscode/
+.DS_Store

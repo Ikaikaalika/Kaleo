@@ -1,0 +1,4 @@
+mlx
+librosa
+pydub
+google-cloud-speech
