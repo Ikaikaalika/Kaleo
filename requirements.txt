@@ -1,4 +1,6 @@
-mlx
+torch
+numpy
 librosa
-pydub
-google-cloud-speech
+phonemizer
+fastapi
+uvicorn
