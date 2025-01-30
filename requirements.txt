@@ -4,3 +4,13 @@ librosa
 phonemizer
 fastapi
 uvicorn
+sox
+montreal-forced-aligner
+transformers
+ml-collections
+soundfile
+tensorboardX
+scipy
+jupyter
+matplotlib
+mlx
